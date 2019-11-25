@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CDB Music</string>
+    <string name="title_activity_main">CDB Music</string>
+    <string name="package_name">cdb.music.com</string>
+    <string name="custom_url_scheme">cdb.music.com</string>
+</resources>
