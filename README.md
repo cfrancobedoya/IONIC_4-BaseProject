@@ -32,3 +32,13 @@ Development with different tools. Using Angular with IONIC 4
 ```
    $ npx cap open android
 ```
+
+## Update IOS & Android projects
+```
+    $ npx cap update
+
+    $ npx cap sync
+
+    $ npx cap copy
+```
+Before use this commands we need to run ``$ ionic build``.

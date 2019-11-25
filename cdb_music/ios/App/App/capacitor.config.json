@@ -1,0 +1,8 @@
+{
+  "appId": "cdb.music.com",
+  "appName": "CDB Music",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
