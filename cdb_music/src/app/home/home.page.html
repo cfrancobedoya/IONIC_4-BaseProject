@@ -1,11 +1,22 @@
-<ion-header>
-  <ion-toolbar>
-    <ion-title>
-      Ionic Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
-<ion-content>
-  <h1>Hola mundo</h1>
+<ion-content padding>
+  <ion-slides pager="true" [options]="slideOpt">
+    <ion-slide>
+      <ion-icon name="close"></ion-icon>
+      <img src="assets/img/logoBarbera.png">
+      <h1>Social Barber</h1>
+      <h2>EN CUALQUIER LUGAR</h2>
+      <p>
+        Los mejores cortes, los mejores estilos. Evalúa y comparte en cualquier momento, a todas horas.
+      </p>
+      <ion-icon name="play"></ion-icon>
+    </ion-slide>
+    <ion-slide>
+      <img src="assets/img/logoBarbera.png">
+      <h1>Slide 2</h1>
+    </ion-slide>
+    <ion-slide>
+      <img src="assets/img/logoBarbera.png">
+      <h1>Slide 3</h1>
+    </ion-slide>
+  </ion-slides>
 </ion-content>
