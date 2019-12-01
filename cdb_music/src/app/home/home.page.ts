@@ -12,6 +12,31 @@ export class HomePage {
     centeredSlides: true,
     speed: 400
   };
+
+  slides = [{
+    imageUrl: 'assets/img/logoBarbera.png',
+    imageAlt: 'Logo Central del barbero',
+    tittle: '',
+    subTitle: 'Insumos barbería y cuidado personal',
+    description: `Multinivel Central Del Barbero`,
+    icon: 'play'
+  },
+  {
+    imageUrl: 'assets/img/logoBarbera.png',
+    imageAlt: 'Logo Central del barbero',
+    tittle: '',
+    subTitle: 'Insumos barbería y cuidado personal',
+    description: `Multinivel Central Del Barbero`,
+    icon: 'play'
+  },
+  {
+    imageUrl: 'assets/img/logoBarbera.png',
+    imageAlt: 'Logo Central del barbero',
+    tittle: '',
+    subTitle: 'Insumos barbería y cuidado personal',
+    description: `Multinivel Central Del Barbero`,
+    icon: 'play'
+  }];
   constructor() {}
 
 }
