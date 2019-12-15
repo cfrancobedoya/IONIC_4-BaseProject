@@ -42,3 +42,13 @@ Development with different tools. Using Angular with IONIC 4
     $ npx cap copy
 ```
 Before use this commands we need to run ``$ ionic build``.
+
+## CREATE NEW PAGE
+```
+   $ ionic generate page intro
+```
+
+## INSTALL IONIC STORAGE
+```
+   $ npm install --save @ionic/storage --save-exact
+```
