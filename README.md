@@ -52,3 +52,8 @@ Before use this commands we need to run ``$ ionic build``.
 ```
    $ npm install --save @ionic/storage --save-exact
 ```
+
+## GENERATE GUARDS IN IONIC
+```
+   $ ionic generate guard guards/intro
+```
